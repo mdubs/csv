@@ -45,10 +45,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Enum.cs" />
     <Compile Include="MyTests.cs" />
+    <Compile Include="Optional.cs" />
+    <Compile Include="OptionalExtensions.cs" />
     <Compile Include="ProgrammingLanguage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SurveyResponse.cs" />
+    <Compile Include="SurveyResposeExtensions.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

@@ -1,6 +1,6 @@
-﻿namespace DavesCsvProblem
+﻿namespace CsvProblem
 {
-    enum ProgrammingLanguage
+    public enum ProgrammingLanguage
     {
         CSharp,
         FSharp,
